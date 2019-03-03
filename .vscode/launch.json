@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodReferenceTest",
+            "request": "launch",
+            "mainClass": "hash.elbum.MethodReferenceTest",
+            "projectName": "hash-elbum-0216"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "hash.elbum.App",
+            "projectName": "hash-elbum-0216"
+        }
+    ]
+}
